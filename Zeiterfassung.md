@@ -16,6 +16,10 @@ bis 07.01: einzeln Themenfindung (alle)
 
 21.01-28.01: genauere Recherche zum Forschungsstand (jeder eine Literatur) und Zwischenpräsentation (jeder eine zugeteilte Folie fertigstellen)
 
-20.02: Datenerhebung von 10-15 Uhr (Sarah, Amelie, Celine, Taya)
+20.02: Datenerhebung von 10-16 Uhr (Sarah, Amelie, Celine, Taya)
 
 07.03: Datenbereinigung und erstellen Tidygraphobjekt (11-13 Uhr Amelie, Sarah)
+
+09-10.03: Blocktage (Besprechung welche Teil-/Egonetzwerke nötig, mögliche Fehler behoben, Zeitplan gefestigt)
+
+27.03: Teilntzwerke und Egontzwerke erstellt (Amelie, Sarah)
